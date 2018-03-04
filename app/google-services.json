@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "707761981752",
+    "firebase_url": "https://zorouteblogtest.firebaseio.com",
+    "project_id": "zorouteblogtest",
+    "storage_bucket": "zorouteblogtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707761981752:android:ea378b50cd2f610a",
+        "android_client_info": {
+          "package_name": "com.example.joker.blogpost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707761981752-u1ba9qebds0d5o7nvr3u04neniq0km55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.joker.blogpost",
+            "certificate_hash": "40c3ffb8311b3bff13dd411174faddd36691305b"
+          }
+        },
+        {
+          "client_id": "707761981752-3t7aa65ljthq8sfirs3qugvrelb3hod9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzA-CJI5VvFe1A5EJTxqR0XW-Qejcudws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707761981752-3t7aa65ljthq8sfirs3qugvrelb3hod9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

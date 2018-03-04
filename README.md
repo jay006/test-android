@@ -1,13 +1,18 @@
 # Android
 
 ## Overview
-A blog
+Created A blog post using SQLite in andorid
+1.User can add post.
+2.User can delete post by swipe.
+3.Firebase gAuth authentication is provide.
 
-## Requirement
-You need to gather the API(s) from the web developer and develop the android app of the blog. Which can
+I have alos created other apps.
 
-* Signup & Login using the api
-* Post blog content using api
-* Comment on content using api
+1.News Applications
+2.Instagram Clone - https://github.com/jay006/Instagram-Clone-Android
 
-**Try Kotlin**
+
+
+
+
+
